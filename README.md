@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Fate/Zero](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10087-el5Bo1VMZwsU.png)](https://anilist.co/anime/10087)
+[![Fate/Zero 2nd Season](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11741-Twb6iJx77FFV.jpg)](https://anilist.co/anime/11741)
 
-# Fate/Zero (13/13)
+# Fate/Zero 2nd Season (3/12)
 
-### Episode 2 - False Start
+### Episode 4 - The Eighth Contract
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
