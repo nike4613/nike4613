@@ -8,3 +8,5 @@
 {{#with CurrentEpisode}}
 ### Episode {{Number}} - {{Title}}
 {{/with}}
+
+###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
