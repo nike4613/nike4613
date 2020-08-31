@@ -5,6 +5,6 @@
 
 # Fate/Zero (13/13)
 
-### Episode 2 - False Start
+### Episode 3 - Land of Winter Trees
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
