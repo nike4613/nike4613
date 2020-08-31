@@ -5,6 +5,6 @@
 
 # Fate/Zero (13/13)
 
-### Episode 3 - Land of Winter Trees
+### Episode 4 - Blade of the Demon Spear
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
