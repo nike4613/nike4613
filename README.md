@@ -5,6 +5,6 @@
 
 # Fate/Zero 2nd Season (6/12)
 
-### Episode 6 - 
+### Episode 6 - Where Justice is Found
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
