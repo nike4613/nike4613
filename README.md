@@ -5,6 +5,6 @@
 
 # Fate/Zero 2nd Season (12/12)
 
-### Episode 12 - 
+### Episode 12 - Fate Zero
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
