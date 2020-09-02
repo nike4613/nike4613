@@ -5,6 +5,6 @@
 
 # Fate/Zero 2nd Season (11/12)
 
-### Episode 11 - 
+### Episode 11 - The Last Command Spell
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
