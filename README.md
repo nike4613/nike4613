@@ -5,6 +5,6 @@
 
 # Fate/Zero 2nd Season (7/12)
 
-### Episode 7 - Return of the Assassin
+### Episode 8 - Knight on Two Wheels
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
