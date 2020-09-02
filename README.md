@@ -5,6 +5,6 @@
 
 # Fate/Zero 2nd Season (10/12)
 
-### Episode 10 - The Sea at the End of the World
+### Episode 11 - The Last Command Spell
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
