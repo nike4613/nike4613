@@ -5,6 +5,6 @@
 
 # Fate/Zero 2nd Season (8/12)
 
-### Episode 8 - Knight on Two Wheels
+### Episode 9 - All the World's Evils
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
