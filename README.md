@@ -5,6 +5,6 @@
 
 # Fate/Zero 2nd Season (5/12)
 
-### Episode 5 - 
+### Episode 4 - The Eighth Contract
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
