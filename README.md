@@ -5,6 +5,6 @@
 
 # Fate/Zero 2nd Season (6/12)
 
-### Episode 6 - Where Justice is Found
+### Episode 7 - Return of the Assassin
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
