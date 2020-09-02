@@ -5,6 +5,6 @@
 
 # Fate/Zero 2nd Season (9/12)
 
-### Episode 9 - 
+### Episode 9 - All the World's Evils
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
