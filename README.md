@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108632-Z8LOaPpYPK93.jpg)](https://anilist.co/anime/108632)
+[![Fate/stay night](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx356-mTpMvtillumS.png)](https://anilist.co/anime/356)
 
-# Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season (9/13)
+# Fate/stay night (1/24)
 
-### Episode 9 - 
+### Episode 1 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
