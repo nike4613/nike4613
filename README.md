@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Fate/stay night](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx356-mTpMvtillumS.png)](https://anilist.co/anime/356)
+[![Fate/stay night: Unlimited Blade Works](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx19603-pc0lrFinBpTg.jpg)](https://anilist.co/anime/19603)
 
-# Fate/stay night (1/24)
+# Fate/stay night: Unlimited Blade Works (1/13)
 
 ### Episode 1 - 
 
