@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Bakemonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5081-YpAE43HLQKqz.png)](https://anilist.co/anime/5081)
+[![Fate/stay night: Unlimited Blade Works](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx19603-pc0lrFinBpTg.jpg)](https://anilist.co/anime/19603)
 
-# Bakemonogatari (15/15)
+# Fate/stay night: Unlimited Blade Works (8/13)
 
-### Episode 1 - 
+### Episode 8 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
