@@ -3,7 +3,7 @@
 
 [![Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108632-Z8LOaPpYPK93.jpg)](https://anilist.co/anime/108632)
 
-# Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season (9/13)
+# Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season (10/13)
 
 ### Episode 10 - 
 
