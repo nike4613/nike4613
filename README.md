@@ -3,7 +3,7 @@
 
 [![Fate/stay night: Unlimited Blade Works 2nd Season](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20792-lKfQMBo8qUaX.png)](https://anilist.co/anime/20792)
 
-# Fate/stay night: Unlimited Blade Works 2nd Season (12/13)
+# Fate/stay night: Unlimited Blade Works 2nd Season (13/13)
 
 ### Episode 13 - 
 
