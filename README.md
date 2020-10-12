@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Nisemonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11597-ApDcMuPvRhgr.jpg)](https://anilist.co/anime/11597)
+[![Bakemonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5081-YpAE43HLQKqz.png)](https://anilist.co/anime/5081)
 
-# Nisemonogatari (3/11)
+# Bakemonogatari (15/15)
 
-### Episode 3 - 
+### Episode 1 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
