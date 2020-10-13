@@ -5,6 +5,6 @@
 
 # Bakemonogatari (10/15)
 
-### Episode 10 - 
+### Episode 11 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
