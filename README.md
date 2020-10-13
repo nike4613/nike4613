@@ -5,6 +5,6 @@
 
 # Bakemonogatari (13/15)
 
-### Episode 13 - 
+### Episode 14 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
