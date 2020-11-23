@@ -5,6 +5,6 @@
 
 # Hanamonogatari (5/5)
 
-### Episode 2 - 
+### Episode 3 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
