@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Tsukimonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20918-2InvV6EsOScm.png)](https://anilist.co/anime/20918)
+[![Koyomimonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21520-nZKCr7PZrv7e.png)](https://anilist.co/anime/21520)
 
-# Tsukimonogatari (4/4)
+# Koyomimonogatari (12/12)
 
-### Episode 4 - 
+### Episode 1 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
