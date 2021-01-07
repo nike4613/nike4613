@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Koyomimonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21520-nZKCr7PZrv7e.png)](https://anilist.co/anime/21520)
+[![Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108632-Z8LOaPpYPK93.jpg)](https://anilist.co/anime/108632)
 
-# Koyomimonogatari (12/12)
+# Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season (13/13)
 
-### Episode 12 - 
+### Episode 14 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
