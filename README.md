@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108632-Z8LOaPpYPK93.jpg)](https://anilist.co/anime/108632)
+[![Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119661-2p4OcVJo7j0F.jpg)](https://anilist.co/anime/119661)
 
-# Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season (13/13)
+# Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2 (1/12)
 
-### Episode 14 - 
+### Episode 1 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
