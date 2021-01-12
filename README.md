@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Kumo desu ga, Nani ka?](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103632-o4jpRxks22LT.jpg)](https://anilist.co/anime/103632)
+[![Hataraku Saibou BLACK](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117533-Niown8l6NAWk.jpg)](https://anilist.co/anime/117533)
 
-# Kumo desu ga, Nani ka? (1/24)
+# Hataraku Saibou BLACK (1/13)
 
 ### Episode 1 - 
 
