@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Hataraku Saibou BLACK](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117533-Niown8l6NAWk.jpg)](https://anilist.co/anime/117533)
+[![Nisemonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11597-ApDcMuPvRhgr.jpg)](https://anilist.co/anime/11597)
 
-# Hataraku Saibou BLACK (1/13)
+# Nisemonogatari (11/11)
 
-### Episode 1 - 
+### Episode 7 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
