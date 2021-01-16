@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119661-yHjL0A9oavem.png)](https://anilist.co/anime/119661)
+[![Kumo desu ga, Nani ka?](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103632-o4jpRxks22LT.jpg)](https://anilist.co/anime/103632)
 
-# Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2 (2/12)
+# Kumo desu ga, Nani ka? (1/24)
 
 ### Episode 2 - 
 
