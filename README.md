@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Kumo desu ga, Nani ka?](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103632-o4jpRxks22LT.jpg)](https://anilist.co/anime/103632)
+[![Mushoku Tensei: Isekai Ittara Honki Dasu](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108465-A0eKcuisIPjm.png)](https://anilist.co/anime/108465)
 
-# Kumo desu ga, Nani ka? (11/24)
+# Mushoku Tensei: Isekai Ittara Honki Dasu (10/11)
 
 ### Episode 11 - 
 
