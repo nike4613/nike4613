@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Tensei Shitara Slime Datta Ken 2nd Season](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108511-PufFordLNyIb.jpg)](https://anilist.co/anime/108511)
+[![Kumo desu ga, Nani ka?](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103632-o4jpRxks22LT.jpg)](https://anilist.co/anime/103632)
 
-# Tensei Shitara Slime Datta Ken 2nd Season (11/12)
+# Kumo desu ga, Nani ka? (11/24)
 
-### Episode 11 - 
+### Episode 12 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
