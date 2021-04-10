@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Horimiya](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124080-h8EPH92nyRfS.jpg)](https://anilist.co/anime/124080)
+[![Kumo desu ga, Nani ka?](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103632-XRXP3uB17FMg.jpg)](https://anilist.co/anime/103632)
 
-# Horimiya (13/13)
+# Kumo desu ga, Nani ka? (12/24)
 
 ### Episode 13 - 
 
