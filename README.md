@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Isekai Maou to Shoukan Shoujo no Dorei Majutsu &#937;](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117448-bsPgVDD85sjB.jpg)](https://anilist.co/anime/117448)
+[![Fumetsu no Anata e](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114535-y3NnjexcqKG1.jpg)](https://anilist.co/anime/114535)
 
-# Isekai Maou to Shoukan Shoujo no Dorei Majutsu &#937; (2/10)
+# Fumetsu no Anata e (1/20)
 
-### Episode 2 - 
+### Episode 1 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
