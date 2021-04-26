@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Isekai Maou to Shoukan Shoujo no Dorei Majutsu &#937;](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117448-bsPgVDD85sjB.jpg)](https://anilist.co/anime/117448)
+[![86: Eighty Six](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116589-WSpNedJdAH3L.jpg)](https://anilist.co/anime/116589)
 
-# Isekai Maou to Shoukan Shoujo no Dorei Majutsu &#937; (3/10)
+# 86: Eighty Six (2/11)
 
 ### Episode 3 - 
 
