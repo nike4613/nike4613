@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Kimetsu no Yaiba: Mugen Ressha-hen](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112151-1qlQwPB1RrJe.png)](https://anilist.co/anime/112151)
+[![Kumo desu ga, Nani ka?](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103632-XRXP3uB17FMg.jpg)](https://anilist.co/anime/103632)
 
-# Kimetsu no Yaiba: Mugen Ressha-hen (1/1)
+# Kumo desu ga, Nani ka? (14/24)
 
-### Episode 1 - 
+### Episode 15 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
