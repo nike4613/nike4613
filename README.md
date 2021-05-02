@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Kumo desu ga, Nani ka?](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103632-XRXP3uB17FMg.jpg)](https://anilist.co/anime/103632)
+[![Vivy: Fluorite Eye&#8217;s Song](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128546-UIwyhuhjxmL0.jpg)](https://anilist.co/anime/128546)
 
-# Kumo desu ga, Nani ka? (16/24)
+# Vivy: Fluorite Eye&#8217;s Song (5/13)
 
-### Episode 16 - 
+### Episode 6 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
