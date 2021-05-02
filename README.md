@@ -5,6 +5,6 @@
 
 # Vivy: Fluorite Eye&#8217;s Song (5/13)
 
-### Episode 5 - 
+### Episode 6 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
