@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![86: Eighty Six](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116589-WSpNedJdAH3L.jpg)](https://anilist.co/anime/116589)
+[![Nisemonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11597-ApDcMuPvRhgr.jpg)](https://anilist.co/anime/11597)
 
-# 86: Eighty Six (4/11)
+# Nisemonogatari (11/11)
 
-### Episode 4 - 
+### Episode 1 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
