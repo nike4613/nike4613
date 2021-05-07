@@ -5,6 +5,6 @@
 
 # Nisemonogatari (7/11)
 
-### Episode 6 - 
+### Episode 8 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
