@@ -3,7 +3,7 @@
 
 [![Nisemonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11597-ApDcMuPvRhgr.jpg)](https://anilist.co/anime/11597)
 
-# Nisemonogatari (9/11)
+# Nisemonogatari (10/11)
 
 ### Episode 10 - 
 
