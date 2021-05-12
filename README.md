@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Tensura Nikki: Tensei Shitara Slime Datta Ken](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116741-rfUHo8Vh4WYF.jpg)](https://anilist.co/anime/116741)
+[![Isekai Maou to Shoukan Shoujo no Dorei Majutsu &#937;](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117448-bsPgVDD85sjB.jpg)](https://anilist.co/anime/117448)
 
-# Tensura Nikki: Tensei Shitara Slime Datta Ken (6/12)
+# Isekai Maou to Shoukan Shoujo no Dorei Majutsu &#937; (4/10)
 
-### Episode 6 - 
+### Episode 5 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
