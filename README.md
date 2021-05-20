@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Fumetsu no Anata e](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114535-y3NnjexcqKG1.jpg)](https://anilist.co/anime/114535)
+[![Kumo desu ga, Nani ka?](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103632-XRXP3uB17FMg.jpg)](https://anilist.co/anime/103632)
 
-# Fumetsu no Anata e (5/20)
+# Kumo desu ga, Nani ka? (17/24)
 
-### Episode 5 - 
+### Episode 18 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
