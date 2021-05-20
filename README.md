@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Tensura Nikki: Tensei Shitara Slime Datta Ken](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116741-rfUHo8Vh4WYF.jpg)](https://anilist.co/anime/116741)
+[![Fumetsu no Anata e](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114535-y3NnjexcqKG1.jpg)](https://anilist.co/anime/114535)
 
-# Tensura Nikki: Tensei Shitara Slime Datta Ken (7/12)
+# Fumetsu no Anata e (4/20)
 
-### Episode 7 - 
+### Episode 5 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
