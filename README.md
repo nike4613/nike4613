@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Vivy: Fluorite Eye&#8217;s Song](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128546-UIwyhuhjxmL0.jpg)](https://anilist.co/anime/128546)
+[![86: Eighty Six](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116589-WSpNedJdAH3L.jpg)](https://anilist.co/anime/116589)
 
-# Vivy: Fluorite Eye&#8217;s Song (8/13)
+# 86: Eighty Six (5/11)
 
-### Episode 8 - 
+### Episode 6 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
