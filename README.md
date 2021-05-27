@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Tensura Nikki: Tensei Shitara Slime Datta Ken](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116741-rfUHo8Vh4WYF.jpg)](https://anilist.co/anime/116741)
+[![Kumo desu ga, Nani ka?](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103632-XRXP3uB17FMg.jpg)](https://anilist.co/anime/103632)
 
-# Tensura Nikki: Tensei Shitara Slime Datta Ken (8/12)
+# Kumo desu ga, Nani ka? (18/24)
 
-### Episode 8 - 
+### Episode 19 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
