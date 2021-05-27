@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Vivy: Fluorite Eye&#8217;s Song](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128546-UIwyhuhjxmL0.jpg)](https://anilist.co/anime/128546)
+[![Fumetsu no Anata e](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114535-y3NnjexcqKG1.jpg)](https://anilist.co/anime/114535)
 
-# Vivy: Fluorite Eye&#8217;s Song (9/13)
+# Fumetsu no Anata e (6/20)
 
-### Episode 9 - 
+### Episode 7 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
