@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Kizumonogatari II: Nekketsu-hen](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21399-VTAdAqc8u5AE.png)](https://anilist.co/anime/21399)
+[![Kizumonogatari III: Reiketsu-hen](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21400-1OpNcuEs7osA.png)](https://anilist.co/anime/21400)
 
-# Kizumonogatari II: Nekketsu-hen (1/1)
+# Kizumonogatari III: Reiketsu-hen (1/1)
 
 ### Episode 1 - 
 
