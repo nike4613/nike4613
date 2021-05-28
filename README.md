@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![86: Eighty Six](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116589-WSpNedJdAH3L.jpg)](https://anilist.co/anime/116589)
+[![Kizumonogatari I: Tekketsu-hen](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9260-tbZARfVq8JoX.png)](https://anilist.co/anime/9260)
 
-# 86: Eighty Six (7/11)
+# Kizumonogatari I: Tekketsu-hen (1/1)
 
-### Episode 7 - 
+### Episode 1 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
