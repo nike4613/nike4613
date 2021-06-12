@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Kara no Kyoukai: Tsuukaku Zanryuu](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3783-yjBXzr1aQgQf.jpg)](https://anilist.co/anime/3783)
+[![Kara no Kyoukai: Garan no Dou](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4280-GKUNVjzu5sUO.png)](https://anilist.co/anime/4280)
 
-# Kara no Kyoukai: Tsuukaku Zanryuu (1/1)
+# Kara no Kyoukai: Garan no Dou (1/1)
 
 ### Episode 1 - 
 
