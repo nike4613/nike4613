@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Kara no Kyoukai: Mujun Rasen](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4282-R19YmET0glSZ.jpg)](https://anilist.co/anime/4282)
+[![Vivy: Fluorite Eye&#8217;s Song](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128546-UIwyhuhjxmL0.jpg)](https://anilist.co/anime/128546)
 
-# Kara no Kyoukai: Mujun Rasen (1/1)
+# Vivy: Fluorite Eye&#8217;s Song (10/13)
 
-### Episode 1 - 
+### Episode 11 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
