@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Kara no Kyoukai: Fukan Fuukei](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2593-irF8xIuAOKUc.jpg)](https://anilist.co/anime/2593)
+[![Kumo desu ga, Nani ka?](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103632-XRXP3uB17FMg.jpg)](https://anilist.co/anime/103632)
 
-# Kara no Kyoukai: Fukan Fuukei (1/1)
+# Kumo desu ga, Nani ka? (20/24)
 
-### Episode 1 - 
+### Episode 21 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
