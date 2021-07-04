@@ -3,7 +3,7 @@
 
 [![Kumo desu ga, Nani ka?](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103632-XRXP3uB17FMg.jpg)](https://anilist.co/anime/103632)
 
-# Kumo desu ga, Nani ka? (23/24)
+# Kumo desu ga, Nani ka? (24/24)
 
 ### Episode 24 - 
 
