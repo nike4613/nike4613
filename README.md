@@ -5,6 +5,6 @@
 
 # Kumo desu ga, Nani ka? (23/24)
 
-### Episode 23 - 
+### Episode 24 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
