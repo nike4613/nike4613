@@ -5,6 +5,6 @@
 
 # Vivy: Fluorite Eye&#8217;s Song (12/13)
 
-### Episode 12 - 
+### Episode 13 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
