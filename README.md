@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Vivy: Fluorite Eye&#8217;s Song](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128546-UIwyhuhjxmL0.jpg)](https://anilist.co/anime/128546)
+[![Fate/kaleid liner Prisma&#9734;Illya: Sekka no Chikai](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97757-BWFRkX81LpGS.png)](https://anilist.co/anime/97757)
 
-# Vivy: Fluorite Eye&#8217;s Song (13/13)
+# Fate/kaleid liner Prisma&#9734;Illya: Sekka no Chikai (1/1)
 
-### Episode 13 - 
+### Episode 1 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
