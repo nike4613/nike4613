@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Fate/kaleid liner Prisma&#9734;Illya: Sekka no Chikai](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b97757-BWFRkX81LpGS.png)](https://anilist.co/anime/97757)
+[![Fate/stay night: Unlimited Blade Works 2nd Season](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20792-gT1MbiqKpP7q.jpg)](https://anilist.co/anime/20792)
 
-# Fate/kaleid liner Prisma&#9734;Illya: Sekka no Chikai (1/1)
+# Fate/stay night: Unlimited Blade Works 2nd Season (13/13)
 
-### Episode 1 - 
+### Episode 13 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
