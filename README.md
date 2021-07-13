@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Fate/stay night: Unlimited Blade Works 2nd Season](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20792-gT1MbiqKpP7q.jpg)](https://anilist.co/anime/20792)
+[![Fate/kaleid liner Prisma&#9734;Illya](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14829-PZVOr1ZxwOJV.png)](https://anilist.co/anime/14829)
 
-# Fate/stay night: Unlimited Blade Works 2nd Season (13/13)
+# Fate/kaleid liner Prisma&#9734;Illya (10/10)
 
-### Episode 13 - 
+### Episode 2 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
