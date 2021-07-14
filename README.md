@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Owarimonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21262-jfbv9hvjymMW.jpg)](https://anilist.co/anime/21262)
+[![86: Eighty Six](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116589-WSpNedJdAH3L.jpg)](https://anilist.co/anime/116589)
 
-# Owarimonogatari (12/12)
+# 86: Eighty Six (8/11)
 
-### Episode 12 - 
+### Episode 9 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
