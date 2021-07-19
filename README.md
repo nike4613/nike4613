@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Koukaku Kidoutai](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx43-gHMR72EkEP4o.png)](https://anilist.co/anime/43)
+[![Kara no Kyoukai: Shuushou](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6954-uMdvQ3Vy74Oa.png)](https://anilist.co/anime/6954)
 
-# Koukaku Kidoutai (1/1)
+# Kara no Kyoukai: Shuushou (1/1)
 
 ### Episode 1 - 
 
