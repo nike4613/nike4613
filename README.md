@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Tensura Nikki: Tensei Shitara Slime Datta Ken](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116741-rfUHo8Vh4WYF.jpg)](https://anilist.co/anime/116741)
+[![86: Eighty Six](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116589-WSpNedJdAH3L.jpg)](https://anilist.co/anime/116589)
 
-# Tensura Nikki: Tensei Shitara Slime Datta Ken (10/12)
+# 86: Eighty Six (9/11)
 
 ### Episode 10 - 
 
