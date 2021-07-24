@@ -5,6 +5,6 @@
 
 # Fumetsu no Anata e (9/20)
 
-### Episode 9 - 
+### Episode 10 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
