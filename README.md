@@ -3,7 +3,7 @@
 
 [![Tensura Nikki: Tensei Shitara Slime Datta Ken](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116741-rfUHo8Vh4WYF.jpg)](https://anilist.co/anime/116741)
 
-# Tensura Nikki: Tensei Shitara Slime Datta Ken (9/12)
+# Tensura Nikki: Tensei Shitara Slime Datta Ken (10/12)
 
 ### Episode 10 - 
 
