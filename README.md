@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (12/12)
 
-### Episode 1 - Ilya's Castle
+### Episode 2 - EX Season
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
