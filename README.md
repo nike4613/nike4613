@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (4/12)
 
-### Episode 4 - Badump! Super Date Plan
+### Episode 5 - Berserker's First Errand
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
