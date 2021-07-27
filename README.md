@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (7/12)
 
-### Episode 7 - 
+### Episode 7 - Expert. ~LOVE Fate~ A Wise Man's Gift
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
