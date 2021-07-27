@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (12/12)
 
-### Episode 12 - Badump! Super Date Plan - Answer
+### Episode 1 - Ilya's Castle
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
