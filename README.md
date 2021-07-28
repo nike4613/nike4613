@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Carnival Phantasm](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10012-MNLVctKXaIAf.jpg)](https://anilist.co/anime/10012)
+[![Nisemonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11597-ApDcMuPvRhgr.jpg)](https://anilist.co/anime/11597)
 
-# Carnival Phantasm (12/12)
+# Nisemonogatari (1/11)
 
-### Episode 6 - First Singularity Feast Olympia
+### Episode 1 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
