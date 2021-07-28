@@ -3,8 +3,8 @@
 
 [![Nisemonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11597-ApDcMuPvRhgr.jpg)](https://anilist.co/anime/11597)
 
-# Nisemonogatari (8/11)
+# Nisemonogatari (7/11)
 
-### Episode 8 - 
+### Episode 7 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
