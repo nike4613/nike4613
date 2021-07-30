@@ -5,6 +5,6 @@
 
 # Fumetsu no Anata e (13/20)
 
-### Episode 13 - 
+### Episode 14 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
