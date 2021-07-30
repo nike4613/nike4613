@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Fumetsu no Anata e](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114535-y3NnjexcqKG1.jpg)](https://anilist.co/anime/114535)
+[![Nisemonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11597-ApDcMuPvRhgr.jpg)](https://anilist.co/anime/11597)
 
-# Fumetsu no Anata e (15/20)
+# Nisemonogatari (7/11)
 
-### Episode 15 - 
+### Episode 8 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
