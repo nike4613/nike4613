@@ -5,6 +5,6 @@
 
 # Fumetsu no Anata e (11/20)
 
-### Episode 11 - 
+### Episode 12 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
