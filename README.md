@@ -5,6 +5,6 @@
 
 # Fumetsu no Anata e (16/20)
 
-### Episode 16 - 
+### Episode 17 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
