@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125368-QhcBkbNP0ZfU.png)](https://anilist.co/anime/125368)
+[![Tensei Shitara Slime Datta Ken 2nd Season Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116742-jn0dW23ftehq.jpg)](https://anilist.co/anime/116742)
 
-# Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA (1/1)
+# Tensei Shitara Slime Datta Ken 2nd Season Part 2 (3/12)
 
-### Episode 1 - 
+### Episode 4 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
