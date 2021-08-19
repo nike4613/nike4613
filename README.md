@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Kara no Kyoukai: Mirai Fukuin](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14807-R4SzEi0zRDl4.jpg)](https://anilist.co/anime/14807)
+[![Kara no Kyoukai: Mirai Fukuin - Extra Chorus](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20697.jpg)](https://anilist.co/anime/20697)
 
-# Kara no Kyoukai: Mirai Fukuin (1/1)
+# Kara no Kyoukai: Mirai Fukuin - Extra Chorus (1/1)
 
 ### Episode 1 - 
 
