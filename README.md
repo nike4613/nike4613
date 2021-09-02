@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Kara no Kyoukai: Mirai Fukuin - Extra Chorus](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20697.jpg)](https://anilist.co/anime/20697)
+[![Date A Live](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15583-rTuRqDFTM1UZ.png)](https://anilist.co/anime/15583)
 
-# Kara no Kyoukai: Mirai Fukuin - Extra Chorus (1/1)
+# Date A Live (3/12)
 
 ### Episode 1 - 
 
