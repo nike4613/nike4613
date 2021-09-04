@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Date A Live](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15583-rTuRqDFTM1UZ.png)](https://anilist.co/anime/15583)
+[![Carnival Phantasm](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10012-MNLVctKXaIAf.jpg)](https://anilist.co/anime/10012)
 
-# Date A Live (9/12)
+# Carnival Phantasm (3/12)
 
-### Episode 9 - 
+### Episode 4 - Badump! Super Date Plan
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
