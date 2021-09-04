@@ -3,7 +3,7 @@
 
 [![Date A Live](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15583-rTuRqDFTM1UZ.png)](https://anilist.co/anime/15583)
 
-# Date A Live (6/12)
+# Date A Live (7/12)
 
 ### Episode 7 - 
 
