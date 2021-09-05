@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Carnival Phantasm](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10012-MNLVctKXaIAf.jpg)](https://anilist.co/anime/10012)
+[![Fumetsu no Anata e](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114535-y3NnjexcqKG1.jpg)](https://anilist.co/anime/114535)
 
-# Carnival Phantasm (12/12)
+# Fumetsu no Anata e (17/20)
 
-### Episode 12 - Badump! Super Date Plan - Answer
+### Episode 18 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
