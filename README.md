@@ -5,6 +5,6 @@
 
 # Date A Live II (1/10)
 
-### Episode 1 - 
+### Episode 2 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
