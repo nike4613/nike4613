@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Fumetsu no Anata e](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114535-y3NnjexcqKG1.jpg)](https://anilist.co/anime/114535)
+[![Date A Live II](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx19163-eHXj3mNRaOXt.jpg)](https://anilist.co/anime/19163)
 
-# Fumetsu no Anata e (20/20)
+# Date A Live II (1/10)
 
-### Episode 20 - 
+### Episode 1 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
