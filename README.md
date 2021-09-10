@@ -3,7 +3,7 @@
 
 [![Date A Live II](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx19163-eHXj3mNRaOXt.jpg)](https://anilist.co/anime/19163)
 
-# Date A Live II (6/10)
+# Date A Live II (7/10)
 
 ### Episode 7 - 
 
