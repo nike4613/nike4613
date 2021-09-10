@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Date A Live: Date to Date](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17641-q5VVIoHcFZAZ.jpg)](https://anilist.co/anime/17641)
+[![Date A Live II](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx19163-eHXj3mNRaOXt.jpg)](https://anilist.co/anime/19163)
 
-# Date A Live: Date to Date (1/1)
+# Date A Live II (4/10)
 
-### Episode 1 - 
+### Episode 5 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
