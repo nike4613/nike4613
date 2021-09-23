@@ -1,10 +1,10 @@
 ﻿
 ## Currently Rewatching
 
-[![Date A Live III](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100722-M5nXzDkuGOLC.png)](https://anilist.co/anime/100722)
+[![Date A Live](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15583-rTuRqDFTM1UZ.png)](https://anilist.co/anime/15583)
 
-# Date A Live III (1/12)
+# Date A Live (12/12)
 
-### Episode 1 - 
+### Episode 8 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
