@@ -3,7 +3,7 @@
 
 [![Date A Live III](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx100722-M5nXzDkuGOLC.png)](https://anilist.co/anime/100722)
 
-# Date A Live III (1/12)
+# Date A Live III (2/12)
 
 ### Episode 2 - 
 
