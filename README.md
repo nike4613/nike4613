@@ -5,6 +5,6 @@
 
 # Date A Live III (7/12)
 
-### Episode 8 - 
+### Episode 7 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
