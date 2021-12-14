@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Kara no Kyoukai: Fukan Fuukei](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2593-irF8xIuAOKUc.jpg)](https://anilist.co/anime/2593)
+[![Kara no Kyoukai: Satsujin Kousatsu (Zen)](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3782-b8NzFcoYs9vc.jpg)](https://anilist.co/anime/3782)
 
-# Kara no Kyoukai: Fukan Fuukei (1/1)
+# Kara no Kyoukai: Satsujin Kousatsu (Zen) (1/1)
 
 ### Episode 1 - 
 
