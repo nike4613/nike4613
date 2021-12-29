@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (4/12)
 
-### Episode 4 - 
+### Episode 4 - Badump! Super Date Plan
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
