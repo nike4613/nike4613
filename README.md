@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (5/12)
 
-### Episode 5 - 
+### Episode 5 - Berserker's First Errand
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
