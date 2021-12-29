@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (2/12)
 
-### Episode 2 - Badump! Melty Blood
+### Episode 3 - It's A Daydream Everywhere
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
