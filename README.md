@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (2/12)
 
-### Episode 2 - 
+### Episode 2 - Badump! Melty Blood
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
