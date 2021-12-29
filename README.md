@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (1/12)
 
-### Episode 1 - The 5Th Great Clash Of The Magicians The Holy Grail War
+### Episode 2 - Badump! Melty Blood
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
