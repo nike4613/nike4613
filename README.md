@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (3/12)
 
-### Episode 3 - It's A Daydream Everywhere
+### Episode 4 - Badump! Super Date Plan
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
