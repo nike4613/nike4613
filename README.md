@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (12/12)
 
-### Episode 12 - Badump! Super Date Plan - Answer
+### Episode 3 - FatePrototype
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
