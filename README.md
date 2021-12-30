@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (8/12)
 
-### Episode 8 - 
+### Episode 8 - Working Saber
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
