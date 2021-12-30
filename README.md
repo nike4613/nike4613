@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (10/12)
 
-### Episode 10 - Brainwash Detective Loli Reversion
+### Episode 11 - Final Dead Lancer
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
