@@ -3,8 +3,8 @@
 
 [![Carnival Phantasm](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10012-MNLVctKXaIAf.jpg)](https://anilist.co/anime/10012)
 
-# Carnival Phantasm (5/12)
+# Carnival Phantasm (6/12)
 
-### Episode 6 - Type Moon Monthly TV Novella Sakura
+### Episode 6 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
