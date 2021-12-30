@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (9/12)
 
-### Episode 9 - Holy Grail Grand Prix
+### Episode 10 - Brainwash Detective Loli Reversion
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
