@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Kara no Kyoukai: Mujun Rasen](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4282-R19YmET0glSZ.jpg)](https://anilist.co/anime/4282)
+[![Kara no Kyoukai: Tsuukaku Zanryuu](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3783-NziqsWetU1LK.jpg)](https://anilist.co/anime/3783)
 
-# Kara no Kyoukai: Mujun Rasen (1/1)
+# Kara no Kyoukai: Tsuukaku Zanryuu (1/1)
 
 ### Episode 1 - 
 
