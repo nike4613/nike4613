@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Kara no Kyoukai: Garan no Dou](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx4280-GKUNVjzu5sUO.png)](https://anilist.co/anime/4280)
+[![Mahou Shoujo Madoka&#9734;Magica](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9756-oqKE3E6DLtgm.jpg)](https://anilist.co/anime/9756)
 
-# Kara no Kyoukai: Garan no Dou (1/1)
+# Mahou Shoujo Madoka&#9734;Magica (1/12)
 
 ### Episode 1 - 
 
