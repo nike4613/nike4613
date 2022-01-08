@@ -5,6 +5,6 @@
 
 # Mahou Shoujo Madoka&#9734;Magica (5/12)
 
-### Episode 5 - 
+### Episode 6 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
