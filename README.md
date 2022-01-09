@@ -5,6 +5,6 @@
 
 # Mahou Shoujo Madoka&#9734;Magica (8/12)
 
-### Episode 8 - 
+### Episode 9 - 
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
