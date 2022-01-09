@@ -3,7 +3,7 @@
 
 [![Mahou Shoujo Madoka&#9734;Magica](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9756-oqKE3E6DLtgm.jpg)](https://anilist.co/anime/9756)
 
-# Mahou Shoujo Madoka&#9734;Magica (7/12)
+# Mahou Shoujo Madoka&#9734;Magica (8/12)
 
 ### Episode 8 - 
 
