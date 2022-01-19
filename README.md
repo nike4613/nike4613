@@ -1,9 +1,9 @@
 ﻿
 ## Currently Rewatching
 
-[![Mahou Shoujo Madoka&#9734;Magica: Hangyaku no Monogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11981-aiVnvftA1xPC.jpg)](https://anilist.co/anime/11981)
+[![Made in Abyss](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97986-fzJBML9qecb4.jpg)](https://anilist.co/anime/97986)
 
-# Mahou Shoujo Madoka&#9734;Magica: Hangyaku no Monogatari (1/1)
+# Made in Abyss (1/13)
 
 ### Episode 1 - 
 
