@@ -5,6 +5,6 @@
 
 # Carnival Phantasm (12/12)
 
-### Episode 3 - FatePrototype
+### Episode 4 - Hibichika Special
 
 ###### *Generated with [Taiga Update Git](https://github.com/nike4613/taiga-update-git)*
